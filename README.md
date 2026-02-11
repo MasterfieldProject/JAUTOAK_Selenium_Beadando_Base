@@ -18,13 +18,13 @@ A feladat elkészítésénél az alábbi szempontokra figyeljetek:
   ```
 
 A megoldáshoz szükségetek lesz egy profilra, amit magatoknak kell kézzel elkészíteni
-a https://185.199.31.30:9443/bank/login oldalon.
+a https://hun.digitalbank.masterfield.hu/bank/login oldalon.
 
 ### TC1 - GDPR nyilatkozat sikeres elfogadása
 
 Lépések:
 
-1. Navigálás: https://185.199.31.30:9443/bank/login
+1. Navigálás: https://hun.digitalbank.masterfield.hu/bank/login
 2. Ellenőrzés, hogy a sütik elfogadása ablakon megjelent a megfelelő szöveg és elfogadás gomb.
 3. A sütik elfogadása.
 4. Ellenőrzés, hogy a Login oldal beviteli mezői és gombja betöltődött.
@@ -36,7 +36,7 @@ Lépések:
 
 Lépések:
 
-1. Navigálás: https://185.199.31.30:8443/bank/login
+1. Navigálás: https://hun.digitalbank.masterfield.hu/bank/login
 2. Ellenőrzés, hogy a sütik elfogadása ablakon megjelent a megfelelő szöveg és elfogadás gomb.
 3. A sütik elfogadása.
 4. Ellenőrzés, hogy a Login oldal beviteli mezői és gombja betöltődött.
